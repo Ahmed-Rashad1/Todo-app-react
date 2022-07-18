@@ -1,0 +1,7 @@
+# write commands to install modules/lib and run your project, one in each line.
+# node, npm and yarn commands are available along with other basic linux commands.
+# command to install modules
+yarn
+
+# command to run
+yarn start
