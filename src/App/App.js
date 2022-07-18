@@ -11,7 +11,7 @@ const App = () => {
   useEffect(() => {
     getToLocalStorage();
   }, []);
-  
+
   useEffect(() => {
     filterHandler();
     saveToLocalStorage();
