@@ -49,12 +49,12 @@ form button:hover {
 }
 
 .todo {
-  margin: 0.5rem;
+  margin-bottom: 0.5rem;
   background: white;
   font-size: 1.5rem;
   color: #803010;
   display: flex;
-  justify-content: space-between;
+  justify-content: start;
   align-items: center;
   transition: all 1s ease;
 }
@@ -110,7 +110,7 @@ select {
 
 /* Custom Select */
 .select {
-  margin: 1rem;
+  margin: .3rem;
   position: relative;
   overflow: hidden;
 }
@@ -138,3 +138,36 @@ select {
   transform: scale(1.5);
 }
 */
+
+
+@media (max-width: 400px) {
+  form input {
+  padding: .8rem;
+  font-size: 1.3rem;
+  width: 45%;
+}
+form button {
+  padding: .8rem;
+  font-size: 1.3rem;
+}
+  .trash-btn,
+.complete-btn {
+  padding: .8rem;
+  font-size: .6rem;
+}
+.todo {
+  padding: .8rem;
+  font-size: .8rem;
+}
+.todo-container {
+  max-width: 320px;
+  margin: auto;
+}
+header {
+  font-size: 1rem;
+}
+.filter-todo {
+  padding: 1rem;
+  width: 6rem;
+}
+}
