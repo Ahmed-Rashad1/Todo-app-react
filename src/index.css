@@ -144,8 +144,7 @@ select {
   form input {
   padding: .8rem;
   font-size: 1.3rem;
-  width: 60%;
-  Margin: 20px 0 20px 5px;
+  width: 45%;
 }
 form button {
   padding: .8rem;
@@ -167,8 +166,8 @@ form button {
 header {
   font-size: 1rem;
 }
-.filter-todos {
+.filter-todo {
   padding: 1rem;
-  width: 4rem;
+  width: 6rem;
 }
 }
