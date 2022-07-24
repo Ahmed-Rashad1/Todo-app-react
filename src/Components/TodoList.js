@@ -15,4 +15,4 @@ const TodoList = ({filterTodos, todos, setTodos}) => {
     )
 }
 
-export default TodoList
+export default TodoList;
