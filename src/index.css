@@ -145,7 +145,7 @@ select {
   padding: .8rem;
   font-size: 1.3rem;
   width: 60%;
-  Margin: 0 5px;
+  Margin: 20px 0 20px 5px;
 }
 form button {
   padding: .8rem;
@@ -169,6 +169,6 @@ header {
 }
 .filter-todo {
   padding: 1rem;
-  width: 6rem;
+  width: 4rem;
 }
 }
