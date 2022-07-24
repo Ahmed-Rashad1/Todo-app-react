@@ -144,7 +144,8 @@ select {
   form input {
   padding: .8rem;
   font-size: 1.3rem;
-  width: 45%;
+  width: 60%;
+  Margin: 0 5px;
 }
 form button {
   padding: .8rem;
