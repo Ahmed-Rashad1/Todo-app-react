@@ -26,6 +26,7 @@ form button {
   font-size: 2rem;
   border: none;
   background: white;
+  width: 50%;
 }
 form button {
   color: #803010;
