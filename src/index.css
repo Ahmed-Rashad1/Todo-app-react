@@ -106,6 +106,7 @@ select {
   box-shadow: none;
   border: 0 !important;
   background-image: none;
+  width: 15%;
 }
 
 /* Custom Select */
